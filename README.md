@@ -1,4 +1,8 @@
 # Spotifyclone
+**INCOMPLETE**
+
+VIEW THE SITE : https://rayeedcode.github.io/Spotifyclone/
+
 this project is open for collaborations.
 I created this project with the help of a tutorial from youtube.As I am not skilled in JS ,this site has some functional disabilities.
 You can improve those things by collaboration.
